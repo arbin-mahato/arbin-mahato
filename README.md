@@ -64,7 +64,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arbin-mahato&show_icons=true&locale=en&theme=radical" alt="arbin-mahato" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arbin-mahato&theme=radical" alt="arbin-mahato" height="180" />
@@ -82,7 +82,7 @@
 
 - 🏥 **[DoctorSewa](https://github.com/arbin-mahato/CAPSTONE-DoctorSewa.git)** – A healthcare management system with admin login, doctor-patient panel, and appointment flow  
 - 🎵 **[Mellove](https://github.com/kalviumcommunity/S85_Arbin_Capstone_Mellove)** – A full-stack music collaboration platform with karaoke, contests, and real-time duets (in progress)  
-- 📘 **[Netflix Clone](https://github.com/arbin-mahato/Netflix-clone.git)** – Responsive front-end replica of Netflix using HTML & CSS  
+- 🍿 **[Netflix Clone](https://github.com/arbin-mahato/Netflix-clone.git)** – Responsive front-end replica of Netflix using HTML & CSS  
 
 ---
 
