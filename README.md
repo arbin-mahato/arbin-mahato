@@ -128,3 +128,11 @@ _(Google Summer of Code '25 applicant)_
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
+
+---
+
+### 📜 License
+
+This README is licensed under the **[CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/)**.  
+You may **not reuse, modify, or distribute** any part of it without explicit permission.  
+© 2025 [Arbin Mahato](https://github.com/arbin-mahato). All rights reserved.
