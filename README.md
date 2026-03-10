@@ -57,13 +57,6 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arbin-mahato&theme=radical&no-frame=true&margin-w=5" />
-</p>
-
----
-
 ### 📊 GitHub Statistics:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arbin-mahato&show_icons=true&locale=en&theme=radical" alt="arbin-mahato" height="180" />
