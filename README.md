@@ -35,42 +35,6 @@
 
 ---
 
-### ⚙️ Tech Stack:
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://jenkins.io/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" /></a>
-  <a href="https://figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
-</p>
-
----
-
-### 📊 GitHub Statistics:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arbin-mahato&show_icons=true&locale=en&theme=radical" alt="arbin-mahato" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arbin-mahato&theme=radical" alt="arbin-mahato" height="180" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arbin-mahato&show_icons=true&locale=en&layout=compact&theme=radical" alt="arbin-mahato" height="180" />
-</div>
-
----
-
 ### 🚀 Featured Projects:
 
 - 🏥 **[DoctorSewa](https://github.com/arbin-mahato/CAPSTONE-DoctorSewa.git)** – A healthcare management system with admin login, doctor-patient panel, and appointment flow  
@@ -94,38 +58,8 @@ _(Google Summer of Code '25 applicant)_
 
 ---
 
-### 📈 GitHub Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arbin-mahato&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 ### 📈 GitHub Contribution Statistics:
 <p align="center">
   <br clear="both" />
   <img src="https://raw.githubusercontent.com/arbin-mahato/arbin-mahato/output/snake.svg" alt="GitHub contribution snake animation" />
 </p>
-
----
-
-### 📫 Connect with Me:
-<p align="center">
-  <a href="https://github.com/arbin-mahato">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/arbin-mahato">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/arbin-mahato/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</p>
-
----
-
-### 📜 License
-
-This README is licensed under the **[CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/)**.  
-You may **not reuse, modify, or distribute** any part of it without explicit permission.  
-© 2025 [Arbin Mahato](https://github.com/arbin-mahato). All rights reserved.
