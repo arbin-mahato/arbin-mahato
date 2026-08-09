@@ -6,10 +6,6 @@
 
 <h3 align="center">🚀 B.Tech CSE Student | 🛠️ MERN Stack Developer | 💡 GSoC 2025 Aspirant | 🎯 On a Mission to Build & Solve</h3>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=arbin-mahato&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🌟 About Me:
