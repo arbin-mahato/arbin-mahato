@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h3 align="center">🚀 B.Tech CSE Student | 🛠️ MERN Stack Developer | 💡 GSoC 2025 Aspirant | 🎯 On a Mission to Build & Solve</h3>
+<h3 align="center">🚀 B.Tech CSE Student | 🛠️ MERN Stack Developer | 💡 GSoC 2025 Aspirant</h3>
 
 ---
 
